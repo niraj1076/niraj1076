@@ -56,7 +56,7 @@
 
 ## 🔥 Featured Projects
 
-### 🔹 Self-Healing Infrastructure
+### 🔹 🔗 [View Project Repository](https://github.com/niraj1076/self-healing-infra-aws)
 Automatic EC2 recovery system using CloudWatch alarms and Lambda auto-remediation.
 
 ### 🔹 Production-Grade Auto Scaling Web App
