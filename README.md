@@ -103,7 +103,7 @@ Provisioned EC2 infrastructure using Terraform following IaC best practices.
 
 ## 📫 Contact
 📧 nirajshrivastav0987@gmail.com  
-🔗 LinkedIn: (update your actual link)
+🔗 LinkedIn: www.linkedin.com/in/niraj-shrivastav-163050220
 
 ---
 
