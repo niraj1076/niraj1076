@@ -1,11 +1,11 @@
 # Hi, I'm Niraj Shrivastav 👋
 
-🚀 Aspiring Cloud & DevOps Engineer  
+🚀 Cloud & DevOps Engineer  
 ☁️ AWS Certified Cloud Practitioner  
 
 ---
 
-## 🔭 I’m currently working on
+## 🔭 Currently Building
 - Self-Healing Infrastructure using Terraform (CloudWatch + EventBridge + Lambda)
 - Production-grade Auto Scaling Web Architecture
 - Blue-Green Deployment using ECS
@@ -13,90 +13,69 @@
 
 ---
 
-## 🌱 I’m currently learning
-- Advanced Terraform (state management, remote backend, locking)
-- Kubernetes fundamentals
-- CI/CD best practices
-- AWS architecture design patterns
+## 🌱 Currently Improving
+- Terraform remote backend & state locking
+- Kubernetes (HPA, rolling updates, service networking)
+- CI/CD pipeline optimization
+- AWS architecture best practices
 
 ---
 
-## 👯 I’m looking to collaborate on
-- Cloud infrastructure automation projects
-- DevOps CI/CD pipelines
-- Terraform-based AWS deployments
-
----
-
-## 🤔 I’m looking for help with
-- Production-level Kubernetes architecture
-- Optimizing cloud infrastructure cost
-- Real-world DevOps implementation strategies
-
----
-
-## 💬 Ask me about
-- AWS core services (EC2, ASG, ALB, RDS, S3, Lambda, ECS)
+## 💬 Ask Me About
+- Designing secure 3-tier AWS architecture
+- Auto Scaling & Load Balancing strategies
 - Infrastructure as Code with Terraform
-- Linux server setup & Nginx configuration
-- Cloud project architecture design
+- Docker & ECS deployments
+- Linux server configuration & Nginx reverse proxy
 
 ---
 
 ## 🛠 Tech Stack
 
-- AWS (EC2, ASG, ALB, RDS, Lambda, S3, ECS, IAM, CloudWatch)
-- Terraform
-- Docker
-- Linux
-- Git & GitHub Actions
-- Nginx
+AWS (EC2, ASG, ALB, RDS, Lambda, S3, ECS, IAM, CloudWatch)  
+Terraform  
+Docker  
+Linux  
+Git & GitHub Actions  
+Nginx  
 
 ---
 
-## 🔥 Featured Cloud & DevOps Projects
+## 🔥 Featured Projects
 
 ### 🔹 3-Tier AWS Web Application
- - Architected a scalable 3-tier web application on AWS with networking, compute, and database layers.  
-🔗 [View Project Repository](https://github.com/niraj1076/aws-3tier-web-application)
+Designed a secure 3-tier architecture with public and private subnet isolation, ALB routing, and RDS in private network to improve scalability and security.
 
-### 🔹 Docker Multi-Site Reverse Proxy
- - Configured a Docker-based multi-site reverse proxy using Nginx to route traffic for multiple web applications.  
-🔗 [View Project Repository](https://github.com/niraj1076/docker-multi-site-reverse-proxy)
+🔗 https://github.com/niraj1076/aws-3tier-web-application
+
+---
 
 ### 🔹 Self-Healing Infrastructure (Terraform)
- - Automated auto-remediation of unhealthy EC2 instances using CloudWatch, EventBridge, and Lambda.  
-🔗 [View Project Repository](https://github.com/niraj1076/self-healing-infra-aws)
+Built automated failure detection and recovery system using CloudWatch alarms and EventBridge-triggered Lambda to replace unhealthy EC2 instances.
+
+🔗 https://github.com/niraj1076/self-healing-infra-aws
+
+---
 
 ### 🔹 Dockerized App on ECS Fargate
- - Deployed a containerized application on AWS ECS Fargate with task definitions and service scaling.  
-🔗 [View Project Repository](https://github.com/niraj1076/Dockerized-App-on-ECS-Fargate)
+Deployed containerized application using ECS Fargate with task definitions and service scaling behind load balancer.
+
+🔗 https://github.com/niraj1076/Dockerized-App-on-ECS-Fargate
+
+---
 
 ### 🔹 Secure Serverless File Upload
- - Built a secure serverless upload system using S3, Lambda, and DynamoDB.  
-🔗 [View Project Repository](https://github.com/niraj1076/secure-serverless-file-upload)
+Implemented secure file upload architecture using S3, Lambda, and DynamoDB with proper IAM controls.
 
-### 🔹 S3 Static Website + CloudFront
- - Hosted a static site on S3 with CloudFront CDN for global low-latency delivery.  
-🔗 [View Project Repository](https://github.com/niraj1076/S3-Static-Website-CloudFront)
-
-### 🔹 Custom VPC Terraform Infra
- - Provisioned a custom VPC with public/private subnets and routing using Terraform.  
-🔗 [View Project Repository](https://github.com/niraj1076/custom-vpc-project)
-
-### 🔹 Terraform EC2 Project
- - Provisioned EC2 instances using Terraform with IaC best practices.  
-🔗 [View Project Repository](https://github.com/niraj1076/terraform-ec2-project)
+🔗 https://github.com/niraj1076/secure-serverless-file-upload
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 
-- 📧 Email: nirajshrivastav0987@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 Portfolio Repo: https://github.com/niraj1076/niraj-cloud-engineering-portfolio
+📧 nirajshrivastav0987@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/niraj-shrivastav-163050220
 
 ---
 
-## ⚡ Fun fact
-I enjoy designing cloud architectures that are secure, scalable, and fully automated 🚀
+I enjoy building cloud systems that are secure, scalable, and automated.
