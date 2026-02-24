@@ -54,19 +54,39 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Cloud & DevOps Projects
 
-### 🔹 🔗 [View Project Repository](https://github.com/niraj1076/self-healing-infra-aws)
-Automatic EC2 recovery system using CloudWatch alarms and Lambda auto-remediation.
+### 🔹 3-Tier AWS Web Application
+Architected a scalable 3-tier web application on AWS with networking, compute, and database layers.  
+🔗 [View Project Repository](https://github.com/niraj1076/aws-3tier-web-application)
 
-### 🔹 Production-Grade Auto Scaling Web App
-Highly available multi-AZ architecture with Load Balancer and Auto Scaling Group.
+### 🔹 Docker Multi-Site Reverse Proxy
+Configured a Docker-based multi-site reverse proxy using Nginx to route traffic for multiple web applications.  
+🔗 [View Project Repository](https://github.com/niraj1076/docker-multi-site-reverse-proxy)
 
-### 🔹 Blue-Green Deployment (ECS)
-Zero-downtime container deployment using traffic switching strategy.
+### 🔹 Self-Healing Infrastructure (Terraform)
+Automated auto-remediation of unhealthy EC2 instances using CloudWatch, EventBridge, and Lambda.  
+🔗 [View Project Repository](https://github.com/niraj1076/self-healing-infra-aws)
+
+### 🔹 Dockerized App on ECS Fargate
+Deployed a containerized application on AWS ECS Fargate with task definitions and service scaling.  
+🔗 [View Project Repository](https://github.github.com/niraj1076/Dockerized-App-on-ECS-Fargate)
 
 ### 🔹 Secure Serverless File Upload
-S3 + Lambda + DynamoDB with IAM least privilege and full automation.
+Built a secure serverless upload system using S3, Lambda, and DynamoDB.  
+🔗 [View Project Repository](https://github.com/niraj1076/secure-serverless-file-upload)
+
+### 🔹 S3 Static Website + CloudFront
+Hosted a static site on S3 with CloudFront CDN for global low-latency delivery.  
+🔗 [View Project Repository](https://github.com/niraj1076/S3-Static-Website-CloudFront)
+
+### 🔹 Custom VPC Terraform Infra
+Provisioned a custom VPC with public/private subnets and routing using Terraform.  
+🔗 [View Project Repository](https://github.com/niraj1076/custom-vpc-project)
+
+### 🔹 Terraform EC2 Project
+Provisioned EC2 instances using Terraform with IaC best practices.  
+🔗 [View Project Repository](https://github.com/niraj1076/terraform-ec2-project)
 
 ---
 
