@@ -33,6 +33,7 @@ Docker
 Linux  
 Git & GitHub Actions  
 Nginx  
+Jenkins
 
 ---
 
