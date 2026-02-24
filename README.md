@@ -70,7 +70,7 @@ Automated auto-remediation of unhealthy EC2 instances using CloudWatch, EventBri
 
 ### 🔹 Dockerized App on ECS Fargate
 Deployed a containerized application on AWS ECS Fargate with task definitions and service scaling.  
-🔗 [View Project Repository](https://github.github.com/niraj1076/Dockerized-App-on-ECS-Fargate)
+🔗 [View Project Repository](https://github.com/niraj1076/Dockerized-App-on-ECS-Fargate)
 
 ### 🔹 Secure Serverless File Upload
 Built a secure serverless upload system using S3, Lambda, and DynamoDB.  
