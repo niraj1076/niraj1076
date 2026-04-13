@@ -67,6 +67,23 @@ Deployed containerized application on ECS Fargate with service scaling and load 
 
 ---
 
+### 🔹 Kubernetes GitOps CI/CD Pipeline (In Progress)
+Building a production-style GitOps deployment pipeline using Docker, Kubernetes, GitHub Actions, and ArgoCD to automate application delivery.
+
+Implemented workflow:
+Code push → GitHub Actions builds Docker image → Push to Docker Hub → Kubernetes manifests updated → ArgoCD auto-syncs and deploys to cluster.
+
+Key Highlights:
+- Containerized application using Docker and Nginx
+- Kubernetes Deployment & Service configuration (in progress)
+- CI automation using GitHub Actions
+- GitOps-based CD using ArgoCD (planned)
+- Eliminates manual deployment using declarative approach
+
+🔗 https://github.com/niraj1076/Kubernetes-GitOps-CI-CD-Pipeline
+
+---
+
 ### 🔹 Blue-Green Deployment on ECS
 Implemented deployment strategy to reduce downtime and ensure smooth version transitions.
 
