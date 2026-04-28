@@ -67,7 +67,7 @@ Deployed containerized application on ECS Fargate with service scaling and load 
 
 ---
 
-### 🔹 Kubernetes GitOps CI/CD Pipeline (In Progress)
+### 🔹 Kubernetes GitOps CI/CD Pipeline With AI(In Progress)
 Building a production-style GitOps deployment pipeline using Docker, Kubernetes, GitHub Actions, and ArgoCD to automate application delivery.
 
 Implemented workflow:
